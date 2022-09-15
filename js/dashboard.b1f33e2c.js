@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhermes"]=self["webpackChunkhermes"]||[]).push([[966],{9736:function(e,n,r){r.r(n),r.d(n,{default:function(){return i}});var s=function(){var e=this;e._self._c;return e._m(0)},u=[function(){var e=this,n=e._self._c;return n("div",[n("h1",[e._v("Esta é página de Dashboard")])])}],t={name:"DashboardView"},a=t,l=r(1001),h=(0,l.Z)(a,s,u,!1,null,null,null),i=h.exports}}]);
+//# sourceMappingURL=dashboard.b1f33e2c.js.map

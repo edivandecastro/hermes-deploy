@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhermes"]=self["webpackChunkhermes"]||[]).push([[140],{7552:function(e,n,t){t.r(n),t.d(n,{default:function(){return a}});var u=function(){var e=this;e._self._c;return e._m(0)},r=[function(){var e=this,n=e._self._c;return n("div",[n("h1",[e._v("Esta é página de Ativos")])])}],s={name:"ActiveView"},i=s,l=t(1001),c=(0,l.Z)(i,u,r,!1,null,null,null),a=c.exports}}]);
+//# sourceMappingURL=ativos.48647e0b.js.map
